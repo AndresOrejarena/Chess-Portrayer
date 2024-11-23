@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Chess Portrayer:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="661c5853-3900-49b7-8f13-cfc838ed14ab" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2ntaaDDJ58ZrjSPe1uHBRfZq0Yj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ImageResizer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/M.E.S.A/Downloads/Chess Portrayer&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.uml&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="Chess Portrayer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="661c5853-3900-49b7-8f13-cfc838ed14ab" name="Changes" comment="" />
+      <created>1729794887181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729794887181</updated>
+      <workItem from="1729794888238" duration="329000" />
+      <workItem from="1729795250027" duration="15000" />
+      <workItem from="1729795393089" duration="16635000" />
+      <workItem from="1729868383196" duration="7120000" />
+      <workItem from="1729876955578" duration="7452000" />
+      <workItem from="1729895216865" duration="610000" />
+      <workItem from="1729953374328" duration="675000" />
+      <workItem from="1729954223891" duration="240000" />
+      <workItem from="1729961069396" duration="558000" />
+      <workItem from="1730166997354" duration="1291000" />
+      <workItem from="1730168318367" duration="6910000" />
+      <workItem from="1730320823005" duration="718000" />
+      <workItem from="1730325430637" duration="6265000" />
+      <workItem from="1730332336917" duration="432000" />
+      <workItem from="1730412450714" duration="2297000" />
+      <workItem from="1730420759851" duration="908000" />
+      <workItem from="1730422991763" duration="5408000" />
+      <workItem from="1730472174051" duration="5352000" />
+      <workItem from="1730489686909" duration="167000" />
+      <workItem from="1730493411368" duration="4155000" />
+      <workItem from="1730497901793" duration="6010000" />
+      <workItem from="1730508959307" duration="716000" />
+      <workItem from="1730509897265" duration="189000" />
+      <workItem from="1730510109305" duration="3582000" />
+      <workItem from="1730513734150" duration="2553000" />
+      <workItem from="1730517949990" duration="4679000" />
+      <workItem from="1730551790042" duration="40708000" />
+      <workItem from="1730597606615" duration="3442000" />
+      <workItem from="1730604524741" duration="695000" />
+      <workItem from="1730756509468" duration="19000" />
+      <workItem from="1730757337458" duration="296000" />
+      <workItem from="1731018111605" duration="3189000" />
+      <workItem from="1731021340655" duration="559000" />
+      <workItem from="1731388694370" duration="23000" />
+      <workItem from="1731425674473" duration="2907000" />
+      <workItem from="1731622062737" duration="7000" />
+      <workItem from="1731632169059" duration="4000" />
+      <workItem from="1731790931903" duration="9451000" />
+      <workItem from="1731848483614" duration="3000" />
+      <workItem from="1732058324386" duration="3681000" />
+      <workItem from="1732236389028" duration="6825000" />
+      <workItem from="1732249598265" duration="3238000" />
+      <workItem from="1732294065520" duration="11240000" />
+      <workItem from="1732317232995" duration="1354000" />
+      <workItem from="1732318644329" duration="71000" />
+      <workItem from="1732318746891" duration="170000" />
+      <workItem from="1732318930648" duration="769000" />
+      <workItem from="1732319748138" duration="4364000" />
+      <workItem from="1732328304383" duration="28000" />
+      <workItem from="1732329973471" duration="201000" />
+      <workItem from="1732332583560" duration="225000" />
+      <workItem from="1732333543110" duration="3020000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/logica/juego.java</url>
+          <line>1282</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/logica/juego.java</url>
+          <line>373</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/logica/juego.java</url>
+          <line>804</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/logica/panel.java</url>
+          <line>574</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/logica/juego.java</url>
+          <line>168</line>
+          <properties class="logica.juego" method="procesarFicha">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/logica/juego.java</url>
+          <line>381</line>
+          <properties class="logica.juego" method="getBlancas">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
